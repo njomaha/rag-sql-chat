@@ -1,0 +1,11 @@
+chromadb
+sentence-transformers
+sqlalchemy
+psycopg2-binary
+streamlit
+langchain
+langchain-community
+langchain-openai
+openai
+python-dotenv
+pgvector
